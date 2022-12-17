@@ -1,0 +1,57 @@
+<resources>
+    <string name="app_name">CAT SHOP</string>
+    <string name="Close">Close</string>
+    <string name="Open">Open</string>
+    <string name="deskriptionsiam"> Ingatkah Anda tokoh Si dan Am pada kisah Lady and the Tramp dari film kartun Disney? Meskipun licik, mereka dapat memikat hati pemirsa dengan kerjasama mereka yang tak dapat dilupakan. Mereka menampilkan nilai persahabatan yang luar biasa pada kita. Dan sama seperti rekan-rekan mereka di Disney, Kucing Siam sangat populer karena keramahan dan sifat suka bermain mereka yang tak tertandingi.
+        Kucing Siam sangat sensitif terhadap temperatur di sekelilingnya dan tidak cocok berada di iklim yang dingin karena mantel bulu mereka yang pendek. Meskipun mereka lebih suka di lingkungan hangat, tetapi ras yang sangat cantik ini juga tidak begitu menyukai iklim yang terlalu panas.
+        Kucing Siam termasuk salah satu ras kucing tertua yang tercatat. Mereka adalah keturunan dari keluarga kucing Felidae. Beberapa jenis kucing lain hasil turunan dari Kucing Siam, adalah kucing Bali, kucing Jawa, dan kucing Bengal.</string>
+    <string name="petunjuksiam">CIRI-CIRI :</string>
+    <string name="isipetunjuksiam">
+        (-)Berat - 8 sampai 15 pon \n(-)Tinggi - 8 sampai 10 inci. Bahkan ada yang bisa mencapai ketinggian 12 inci. \n(-)Umur – 15-20 tahun. \n(-)Mantel bulu - Pendek, mantel bulu yang berkilau dengan corak warna yang khas.</string>
+    <string name="pricesiam"> HARGA</string>
+    <string name="Hargasiam">$600 - $1200/\nRp.8,5 - 17juta</string>
+
+
+    <string name="deskriptionragdoll">Pemberian nama Ragdoll pada jenis kucing yang cantik ini sangat tepat karena mereka adalah jenis kucing yang akan dengan senang hati duduk di pangkuan Anda untuk waktu yang cukup lama. Kucing Ragdoll tidak hanya sangat ramah, tetapi mereka juga memiliki watak yang sangat lembut, membuat ras kucing Ragdoll cocok untuk keluarga yang memiliki anak kecil dan hewan peliharaan lainnya.
+        Sebagai salah satu ras kucing terbesar, jenis kucing Ragdoll yang menggemaskan ini adalah termasuk golongan kucing yang berbobot berat, tetapi mereka cukup mudah untuk ditangani dengan hanya membutuhkan sedikit upaya. Cukup dengan melakukan perawatan sederhana pada kucing Ragdoll kesayangan Anda 2 sampai 3 kali seminggu dapat menjaga mereka tetap sehat dan membuat bulu mereka tetap lembut dan halus bersinar.
+        Karakter kucing Ragdoll adalah sangat tenang dan penurut. Kucing menggemaskan yang berperilaku sangat baik ini tergolong tidak terlalu atletis serta lebih menyukai permainan yang lembut. Oleh karena itu, mereka akan dengan senang hati menghabiskan waktu mereka dengan bermanja mendekam di dekat Anda. Coba, betapa hebatnya hal itu!
+        Apakah Anda ingin tahu hal terbaik apa lagi tentang kucing Ragdoll? Maksud kami, terlepas dari kenyataan bahwa semua jenis kucing ragdoll yang imut itu suka disayang dan menyenangkan? Mereka juga akan mencintai tuan mereka kembali! Kucing Ragdoll milik Anda juga tidak akan merepotkan, mereka akan menjadi teman hidup terbaik yang pernah Anda miliki.</string>
+    <string name="petunjukragdoll">CIRI-CIRI :</string>
+    <string name="isipetunjukragdoll">(-)Berat - Kucing Ragdoll tergolong kucing bertubuh besar. Beratnya berkisar antara 10 sampai 20 pon.\n(-)Tinggi - 9 sampai 11 inci. Bahkan ada yang bisa mencapai 21 inci.\n(-)Umur - 13 sampai 18 tahun.\n(-)Mantel bulu - Panjang, mantel bulu halus dan lembut.</string>
+    <string name="pricesragdoll">HARGA</string>
+    <string name="Hargaragdoll">$1.609 - $1.930/\nRp 25 juta – Rp 30 juta</string>
+    <string name="navigation_drawer_open">Open Navigation Drawer</string>
+    <string name="navigation_drawer_close">Close Navigation Drawer</string>
+
+    <string-array name="kucing">
+        <item>Ras Kucing Exotic Shorthair</item>
+        <item>Ras Kucing Maine Coon</item>
+        <item>Ras Kucing Persia</item>
+        <item>Ras Kucing Ragdoll</item>
+    </string-array>
+    <string-array name="star">
+        <item>4.5</item>
+        <item>4.7</item>
+        <item>4.4</item>
+        <item>4.9</item>
+    </string-array>
+    <string-array name="harga">
+        <item>Rp. 50.000</item>
+        <item>Rp. 70.000</item>
+        <item>Rp. 100.000</item>
+        <item>Rp. 150.000</item>
+    </string-array>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="swipe_left_for_register">Swipe Left for Register</string>
+    <string name="login">Login</string>
+    <string name="password">Password</string>
+    <string name="e_mail">Email</string>
+    <string name="tagLogin">Let\'s join us and \nLogin Your Account</string>
+    <string name="tagRegister">Let\'s Register Your Account And \nGo Back To Login</string>
+    <string name="swipe_right_for_login">Swipe Right for Login</string>
+    <string name="register">Register</string>
+    <string name="your_name">Full Name</string>
+    <string name="username">Username</string>
+
+</resources>

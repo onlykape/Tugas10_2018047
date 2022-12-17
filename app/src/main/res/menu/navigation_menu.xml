@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+xmlns:android="http://schemas.android.com/apk/res/android">
+<group android:checkableBehavior="single">
+    <item
+        android:id="@+id/nav_chat"
+        android:icon="@drawable/ic_baseline_chat_bubble_24"
+        android:title="Chat With Us" />
+    <item
+        android:id="@+id/nav_alarm"
+        android:icon="@drawable/ic_baseline_android_24"
+        android:title="Get Alarm" />
+    <item
+        android:id="@+id/nav_bug"
+        android:icon="@drawable/ic_baseline_bug_report_24"
+        android:title="Simpan Data" />
+    <item
+        android:id="@+id/nav_api"
+        android:icon="@drawable/ic_baseline_api_24"
+        android:title="Get API"
+        />
+    <item
+        android:id="@+id/nav_share"
+        android:icon="@drawable/ic_baseline_api_24"
+        android:title="Logout"
+        />
+</group>
+</menu>
